@@ -1,0 +1,403 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "🏰",
+  "titre": "Escapade hivernale relaxante à Gdansk et la Tricité",
+  "budget_total": "Environ 1800-2000 € par personne",
+  "duree": "15 jours",
+  "date_debut": "2026-01-15",
+  "date_fin": "2026-01-29",
+  "temps_vol": "4h45 (depuis Saint maurice, italie)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premières impressions",
+      "legende": "Après votre vol depuis l'Italie, installez-vous confortablement dans votre hébergement. Une première balade douce vous permettra de vous imprégner de l'atmosphère hivernale de Gdansk, sans précipitation. Prenez le temps de vous acclimater et de savourer un premier repas local.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Gdansk (GDN) et transfert vers votre hébergement.",
+        "<strong>🛏️</strong>: Installation à l'hôtel et moment de détente après le voyage.",
+        "<strong>🚶‍♀️</strong>: Première balade relaxante le long de la Motlawa, admirant les façades colorées."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie en Pologne est le Złoty (PLN). Il est conseillé d'avoir un peu de liquide pour les petits commerces, bien que les cartes soient largement acceptées."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Cœur historique et ambiance médiévale",
+      "legende": "Plongez dans l'histoire de Gdansk en explorant ses rues emblématiques. La richesse architecturale et l'ambiance unique du centre-ville vous transporteront à travers les siècles, idéal pour une découverte sereine. Laissez-vous charmer par les détails des bâtiments.",
+      "lieu": "Gdansk - Vieille Ville",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Promenade sur la Long Market (Długi Targ) et la Long Lane (Ulica Długa), admirant les maisons bourgeoises.",
+        "<strong>🏛️</strong>: Visite de l'Hôtel de Ville et de la Fontaine de Neptune, symboles de la ville.",
+        "<strong>⛪</strong>: Découverte de la Basilique Sainte-Marie, une des plus grandes églises en brique du monde."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Spécialités locales",
+          "texte": "Goûtez aux pierogi (raviolis farcis), au barszcz (soupe de betterave) ou au bigos (choucroute polonaise) dans un restaurant traditionnel."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🧡",
+      "titre": "Trésors d'ambre et panoramas urbains",
+      "legende": "Explorez le monde fascinant de l'ambre, l'or de la Baltique, avant de prendre de la hauteur pour admirer Gdansk sous un autre angle. Une journée mêlant culture et contemplation, parfaite pour les amateurs de découvertes douces. La rue Mariacka est un incontournable.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>💎</strong>: Visite du Musée de l'Ambre, pour comprendre l'histoire et l'art de cette pierre précieuse.",
+        "<strong>🚶‍♀️</strong>: Flânerie dans la rue Mariacka, célèbre pour ses gargouilles et ses boutiques d'ambre.",
+        "<strong>🔭</strong>: Montée à la tour de la Basilique Sainte-Marie (si ouverte en hiver) pour une vue imprenable sur la ville."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Achat d'ambre",
+          "texte": "Soyez vigilant lors de l'achat d'ambre. Préférez les boutiques certifiées pour garantir l'authenticité de la pierre."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🚢",
+      "titre": "Histoire ouvrière et bien-être",
+      "legende": "Découvrez le passé industriel et le rôle crucial de Gdansk dans l'histoire moderne de l'Europe, puis offrez-vous un moment de pure détente. Une journée équilibrée entre apprentissage et relaxation, loin de l'agitation. Le Centre Européen de la Solidarité est un lieu émouvant.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>📖</strong>: Visite du Centre Européen de la Solidarité, un lieu émouvant et instructif sur l'histoire polonaise.",
+        "<strong>🚶‍♀️</strong>: Balade dans les anciens chantiers navals, témoins d'une époque révolue.",
+        "<strong>🧖‍♀️</strong>: Après-midi détente dans un spa local ou un centre de bien-être (sauna, piscine chauffée)."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transports en commun",
+          "texte": "Le réseau de tramways et de bus de Gdansk est efficace. Achetez vos tickets aux distributeurs ou via l'application mobile."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🕊️",
+      "titre": "Mémoire et brise marine",
+      "legende": "Rendez hommage à l'histoire sur le site de Westerplatte, puis respirez l'air frais de la mer Baltique. Une journée pour la réflexion et la sérénité, offrant un contraste apaisant entre passé et nature. La promenade sur la plage est vivifiante en hiver.",
+      "lieu": "Westerplatte / Brzeźno",
+      "activites": [
+        "<strong>🚢</strong>: Excursion en bateau (si disponible et confortable en hiver) ou en transport en commun vers Westerplatte.",
+        "<strong>🕊️</strong>: Visite du Mémorial de Westerplatte, lieu symbolique du début de la Seconde Guerre mondiale.",
+        "<strong>🌊</strong>: Promenade relaxante sur la plage de Brzeźno, avec sa jetée et l'air vivifiant de la mer Baltique."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧣",
+          "titre": "Vêtements d'hiver",
+          "texte": "En janvier, les températures peuvent être froides. Prévoyez des vêtements chauds, un bonnet, des gants et des chaussures imperméables pour profiter pleinement des activités extérieures."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌳",
+      "titre": "Harmonie naturelle et mélodies sacrées",
+      "legende": "Évadez-vous dans la verdure du parc d'Oliwa et laissez-vous charmer par la majesté de sa cathédrale. Une journée dédiée à la tranquillité et à la beauté, loin de l'agitation urbaine. Les concerts d'orgue sont une expérience unique.",
+      "lieu": "Oliwa (Gdansk)",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Cathédrale d'Oliwa, célèbre pour son orgue monumental et ses concerts (vérifier les horaires).",
+        "<strong>🌳</strong>: Promenade paisible dans le Parc d'Oliwa, un havre de paix même en hiver.",
+        "<strong>🖼️</strong>: Découverte du Palais des Abbés (Pałac Opatów) et de ses expositions."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎶",
+          "titre": "Concerts d'orgue",
+          "texte": "La Cathédrale d'Oliwa est réputée pour son orgue baroque. Renseignez-vous sur les horaires des concerts pour une expérience musicale mémorable."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏖️",
+      "titre": "Charme balnéaire et air marin",
+      "legende": "Échappez-vous vers la charmante station balnéaire de Sopot, réputée pour sa jetée et son ambiance élégante. Une journée pour se ressourcer au bord de la mer, entre balades et douceurs locales. La jetée offre une vue magnifique sur la Baltique.",
+      "lieu": "Sopot",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train ou tram vers Sopot, une ville côtière voisine de Gdansk.",
+        "<strong>🚶‍♀️</strong>: Balade sur la célèbre jetée en bois de Sopot (Molo), la plus longue d'Europe.",
+        "<strong>🏘️</strong>: Découverte de la \"Maison Tordue\" (Krzywy Domek) et des rues commerçantes."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Profitez des nombreux cafés et restaurants de Sopot pour une pause chaleureuse avec vue sur la mer."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🐠",
+      "titre": "Modernité portuaire et vie aquatique",
+      "legende": "Explorez Gdynia, la ville moderne du trio, avec son port dynamique et son aquarium fascinant. Une journée pour découvrir une facette différente de la côte baltique, alliant urbanisme et biodiversité marine. Le port est un lieu de promenade agréable.",
+      "lieu": "Gdynia",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train vers Gdynia, la ville portuaire moderne.",
+        "<strong>🐠</strong>: Visite de l'Aquarium de Gdynia, pour observer la faune marine de la Baltique et d'ailleurs.",
+        "<strong>🚢</strong>: Promenade le long du port et découverte des navires-musées (Dar Pomorza, Błyskawica)."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "La Tricité",
+          "texte": "Gdansk, Sopot et Gdynia forment la \"Tricité\" (Trójmiasto), bien connectée par un réseau de transports en commun efficace (SKM)."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🛍️",
+      "titre": "Vie locale et découvertes alternatives",
+      "legende": "De retour à Gdansk, explorez le quartier animé de Wrzeszcz, connu pour son ambiance locale et ses boutiques. Une journée pour s'immerger dans le quotidien des habitants, loin des foules touristiques. C'est l'endroit idéal pour trouver des trésors cachés.",
+      "lieu": "Gdansk - Wrzeszcz",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Exploration du quartier de Wrzeszcz, ses rues commerçantes et son architecture.",
+        "<strong>☕</strong>: Pause café dans un des cafés branchés du quartier.",
+        "<strong>🛍️</strong>: Flânerie dans le centre commercial Galeria Bałtycka ou les petites boutiques indépendantes."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs originaux",
+          "texte": "Wrzeszcz est un bon endroit pour trouver des souvenirs plus authentiques et des produits artisanaux locaux."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🎨",
+      "titre": "Immersion artistique et légendes médiévales",
+      "legende": "Plongez dans l'art et l'histoire de Gdansk à travers ses musées et ses lieux emblématiques. Une journée culturelle pour apprécier la richesse du patrimoine local, à un rythme tranquille. La Cour d'Artus est un chef-d'œuvre architectural.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🖼️</strong>: Visite du Musée National de Gdansk, abritant des collections d'art polonais et européen.",
+        "<strong>🏰</strong>: Découverte de la Cour d'Artus (Dwór Artusa), lieu de rencontre historique des marchands.",
+        "<strong>🎭</strong>: Soirée optionnelle: spectacle ou concert (vérifier la programmation locale)."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🎫",
+          "titre": "Pass Musées",
+          "texte": "Renseignez-vous sur les pass musées ou les réductions pour les seniors si vous prévoyez de visiter plusieurs sites culturels."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🍲",
+      "titre": "Saveurs locales et relaxation profonde",
+      "legende": "Apprenez les secrets de la cuisine polonaise avant de vous offrir un moment de pure détente. Une journée gourmande et apaisante, parfaite pour recharger les batteries et savourer l'instant présent. Les pierogi n'auront plus de secrets pour vous.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🧑‍🍳</strong>: Cours de cuisine polonaise pour apprendre à préparer des plats traditionnels comme les pierogi.",
+        "<strong>🧖‍♀️</strong>: Après-midi dans un centre thermal ou un grand spa avec piscines chauffées et saunas (ex: Sopot Aquapark, ou un spa à Gdansk).",
+        "<strong>🍽️</strong>: Dîner dans un restaurant traditionnel pour déguster les plats préparés ou d'autres spécialités."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Cuisine polonaise",
+          "texte": "La cuisine polonaise est réconfortante et savoureuse. N'hésitez pas à goûter les soupes (żurek), les plats à base de pommes de terre et les desserts comme le sernik (cheesecake)."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée à votre rythme et découvertes personnelles",
+      "legende": "Profitez d'une journée libre pour revisiter vos lieux préférés, explorer un quartier non encore découvert, ou simplement vous détendre dans un café. L'occasion de personnaliser votre séjour selon vos envies du moment. Laissez-vous porter par l'ambiance de la ville.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Re-visite d'un quartier coup de cœur ou exploration de nouveaux recoins de la Vieille Ville.",
+        "<strong>☕</strong>: Lecture et détente dans un café chaleureux, savourant une pâtisserie locale.",
+        "<strong>🛍️</strong>: Achats de souvenirs ou de produits locaux pour ramener un peu de Gdansk chez vous."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Flexibilité",
+          "texte": "Cette journée est la vôtre. N'hésitez pas à vous laisser guider par vos envies du moment, qu'il s'agisse de shopping, de musées ou de simple flânerie."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🚶‍♀️",
+      "titre": "Exploration douce et cafés cosy",
+      "legende": "Profitez d'une journée pour explorer les quartiers moins connus de Gdansk, flâner dans les librairies indépendantes ou vous réchauffer dans un café typique. Une approche décontractée pour apprécier la ville à votre rythme. Le quartier de Dolne Miasto offre une perspective différente.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Découverte du quartier de Dolne Miasto, avec ses bâtiments historiques et son ambiance artistique.",
+        "<strong>☕</strong>: Pause gourmande dans un café local, dégustant des pâtisseries polonaises.",
+        "<strong>📚</strong>: Visite d'une librairie ou d'une galerie d'art pour une immersion culturelle douce."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🍰",
+          "titre": "Douceurs polonaises",
+          "texte": "Ne manquez pas de goûter au 'pączki' (beignet polonais) ou au 'makowiec' (gâteau au pavot) dans une pâtisserie locale."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "👋",
+      "titre": "Derniers instants et saveurs de Gdansk",
+      "legende": "Profitez de vos dernières heures pour vous imprégner une dernière fois de l'atmosphère de Gdansk. Une balade finale et un repas mémorable pour clore ce voyage en douceur, avant le départ. Faites le plein de souvenirs avant de rentrer.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Dernière balade le long de la Motlawa ou dans la Vieille Ville, pour graver les images en mémoire.",
+        "<strong>🎁</strong>: Achats de dernière minute pour les souvenirs ou les cadeaux.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant coup de cœur, savourant les spécialités polonaises."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "📦",
+          "titre": "Préparation du départ",
+          "texte": "Assurez-vous que vos bagages sont prêts et que vous avez tous vos documents de voyage à portée de main."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🛫",
+      "titre": "Départ de Gdansk",
+      "legende": "Après un séjour relaxant et riche en découvertes, il est temps de prendre le chemin de l'aéroport. Gardez en mémoire les paysages hivernaux et la douceur de vivre de la côte baltique. Bon retour chez vous, la tête pleine de beaux souvenirs.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛏️</strong>: Petit-déjeuner à l'hôtel et préparation des bagages.",
+        "<strong>🚕</strong>: Transfert vers l'aéroport de Gdansk (GDN).",
+        "<strong>🛫</strong>: Vol retour vers Saint Maurice, Italie."
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Transfert aéroport",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport, surtout en cas de conditions hivernales."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 211 €/pers (A/R depuis Saint Maurice, Italie)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 100-150 €/pers (transports en commun locaux et inter-villes)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 450-600 €/pers (30-40 €/jour pour des repas de qualité moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 700-900 €/pers (50-65 €/nuit pour un hôtel 3* sur 14 nuits)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 150-250 €/pers (entrées musées, spa, cours de cuisine, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Printemps (Avril-Mai) et Automne (Septembre-Octobre) pour des températures douces et moins de foule.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Décembre pour les marchés de Noël et l'ambiance festive.",
+      "symbole": "🎄"
+    },
+    {
+      "titre": "Janvier pour l'ambiance hivernale, les paysages enneigés et les activités intérieures relaxantes.",
+      "symbole": "❄️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "En janvier, les températures à Gdansk varient généralement entre -5°C et 2°C. Des chutes de neige sont possibles. Prévoir des vêtements très chauds, un bonnet, des gants et des chaussures imperméables.",
+      "symbole": "🥶"
+    },
+    {
+      "titre": "La monnaie est le Złoty polonais (PLN). Les cartes de crédit sont largement acceptées, mais il est utile d'avoir un peu de liquide pour les petits achats ou les marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "La langue officielle est le polonais. L'anglais est couramment parlé dans les zones touristiques, les hôtels et les restaurants.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le réseau de transports en commun (trams, bus, trains SKM pour la Tricité) est très efficace. Achetez vos tickets aux distributeurs ou via des applications mobiles dédiées.",
+      "symbole": "🚌"
+    },
+    {
+      "titre": "Les prises électriques sont de type E (deux broches rondes), tension de 230V. Un adaptateur n'est généralement pas nécessaire pour les prises européennes.",
+      "symbole": "🔌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/TRN-GDN/2026-01-15/2026-01-29",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Gdansk",
+      "url": "https://www.visitgdansk.com/en/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports",
+      "titre": "ZTM Gdansk (transports locaux)",
+      "url": "https://ztm.gda.pl/en/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Gdansk",
+      "url": "https://www.accuweather.com/fr/pl/gdansk/275306/weather-forecast/275306",
+      "symbole": "🌤️"
+    }
+  ]
+}
